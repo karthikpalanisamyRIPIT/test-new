@@ -2,4 +2,6 @@
 
 a=25
 b=25
-print(a+b)
+c=35
+d=45
+print(a+b+c+d)
